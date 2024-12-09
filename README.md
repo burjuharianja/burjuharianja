@@ -2,7 +2,7 @@
 
 
 ### About Me  
-- 🧑‍🎓 Hi, I’m **Burju**, currently studying **basic programming** at **Institut Teknologi Sepuluh Nopember (ITS)**.  
+- 🧑‍🎓 Hi, I’m **Burju**, currently studying **information system** at **Institut Teknologi Sepuluh Nopember (ITS)**.  
 - 🌱 Learning **Java** and **Python** while exploring programming fundamentals and building small projects.  
 
 ### Goals  
