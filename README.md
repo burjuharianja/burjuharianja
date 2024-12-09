@@ -1,8 +1,17 @@
 # Hi, I'm Burju! 👋  
 
-# 💫 About Me:
-About Me<br>🧑‍🎓 Hi, I’m Burju, currently studying Information System at Institut Teknologi Sepuluh Nopember (ITS).<br>🌱 Learning Java and Python while exploring programming fundamentals and building small projects.<br>Goals<br>Master the basics of programming and software development.<br>Explore Data Analytics to gain insights from data and solve real-world problems.<br>Contribute to projects and grow as a developer.
 
+### About Me  
+- 🧑‍🎓 Hi, I’m **Burju**, currently studying **basic programming** at **Institut Teknologi Sepuluh Nopember (ITS)**.  
+- 🌱 Learning **Java** and **Python** while exploring programming fundamentals and building small projects.  
+
+### Goals  
+- Master the basics of programming and software development.  
+- Explore **Data Analytics** to gain insights from data and solve real-world problems.  
+- Contribute to projects and grow as a developer.  
+
+### Feel free to connect and collaborate! 🚀 
+![Welcome](https://media.giphy.com/media/8vc2rMUDjhy6Y/giphy.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/burjuharianja._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burjuharianja) 
