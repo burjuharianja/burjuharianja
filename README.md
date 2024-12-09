@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, Welcome to My GitHub Profile! 👋  
 
-<!--
-**burjuharianja/burjuharianja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me  
+- 🧑‍🎓 Hi, I’m **Burju**, currently studying **Information System** at **Institut Teknologi Sepuluh Nopember (ITS)**.  
+- 🌱 Learning **Java** and **Python** while exploring programming fundamentals and building small projects.  
 
-Here are some ideas to get you started:
+### Goals  
+- Master the basics of programming and software development.  
+- Explore **Data Analytics** to gain insights from data and solve real-world problems.  
+- Contribute to projects and grow as a developer.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect and collaborate! 🚀  
+
+![Burju's GitHub stats](https://github-readme-stats.vercel.app/api?username=burjuharianja&show_icons=true&theme=catppuccin_latte )
